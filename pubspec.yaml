@@ -1,0 +1,21 @@
+name: circle_social
+description: "Circle – Social Networking App — Flutter UI demo by Naya Prayog Technologies (https://nayaprayog.com). Contact us for the complete project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
